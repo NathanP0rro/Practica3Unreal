@@ -1,0 +1,23 @@
+# Carpetas generadas
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+.vscode/
+
+# Archivos de Visual Studio
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Plugins compilados
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
